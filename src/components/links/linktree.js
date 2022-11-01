@@ -8,9 +8,10 @@ function LinkTree() {
         <div className='profile flex flex-col justify-center items-center'>
           <div className=' relative w-[88px] h-[88px]'>
             <img
-              src='./'
+              src='images/adeolaking.jpg'
               alt='profile_pic'
               id='profile__img'
+              width='100%'
               className='block rounded-[50%] mb-4 w-full h-full hover:bg-blend-overlay'
             />
             <div className='rounded-[50%] w-full flex flex-col justify-end items-center h-full bg-[#34405475] transition-opacity absolute top-0 bottom-0 left-0 right-0 opacity-0 hover:opacity-100'>
