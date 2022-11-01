@@ -51,7 +51,6 @@ function LinkTree() {
         {linkData.map((link) => (
           <a
             href={link.linkTo}
-            target="_blank"
             id={link.id}
             className='block w-full text-center text-[#101828] font-medium sm:text-lg xsm:text-base text-sm py-[20px] mb-5 bg-[#EAECF0] hover:bg-[#D0D5DD] rounded-lg border-1 border-[ #EAECF0]'
             title={link.title}
