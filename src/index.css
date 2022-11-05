@@ -164,7 +164,7 @@ code {
   
  @media screen and (max-width: 600px) { 
    .contact__container { 
-     margin: 64px 0; 
+     margin: 64px 0px; 
    } 
   
    .contact__header { 
@@ -181,12 +181,7 @@ code {
      gap: 24px; 
    } 
   
-   /* #label { 
-         font-weight: 500; 
-         font-size: 14px; 
-         line-height: 20px; 
-         color: var(--Gray-700); 
-       } */ 
+   
   
    .checkbox__container { 
      align-items: flex-start; 
