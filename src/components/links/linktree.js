@@ -58,7 +58,7 @@ function LinkTree() {
             {link.name}
           </a>
         ))}
-       <Link to="/contact"  className='block w-full text-center text-[#101828] font-medium sm:text-lg xsm:text-base text-sm py-[20px] mb-5 bg-[#EAECF0] hover:bg-[#D0D5DD] rounded-lg border-1 border-[ #EAECF0]' id="contact">Contact</Link>
+       <Link to="/contact"  className='block w-full text-center text-[#101828] font-medium sm:text-lg xsm:text-base text-sm py-[20px] mb-5 bg-[#EAECF0] hover:bg-[#D0D5DD] rounded-lg border-1 border-[ #EAECF0]' id="contact">Contact me</Link>
       </div>
 
       <div className='social flex mt-4 px-4'>
