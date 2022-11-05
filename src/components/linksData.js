@@ -38,6 +38,13 @@ const linkData = [
     title:
       "This is a free design book offered by Zuri to enhance your design patterns.",
   },
+  {
+    name: "Contact Me",
+    linkTo: "/contact",
+    title:
+      "",
+  },
 ];
+
 
 export default linkData;
