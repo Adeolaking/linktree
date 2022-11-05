@@ -61,10 +61,10 @@ function LinkTree() {
       </div>
 
       <div className='social flex mt-4 px-4'>
-        <a href='' className='mx-2'>
+        <a href='/' className='mx-2'>
           <img src='images/slack.svg' alt='slack_icon' />
         </a>
-        <a href='https://www.github.com/adeolaking' target={'_blank'} className='mx-2'>
+        <a href='https://www.github.com/adeolaking'  className='mx-2'>
           <img src='images/git.svg' alt='github_icon' />
         </a>
       </div>
