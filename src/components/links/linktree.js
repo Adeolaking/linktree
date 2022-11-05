@@ -1,6 +1,6 @@
 import React from "react";
 import linkData from "../linksData";
-
+import { Link } from "react-router-dom";
 function LinkTree() {
   return (
     <div className='main flex flex-col justify-center items-center md:pb-32 sm:pb-24 pb-20'>
