@@ -1,7 +1,7 @@
 import React from 'react'
 import "./contact.css";
 function ContactForm() {
-  return (
+  
     function handleSubmit(e) { 
      e.preventDefault(); 
      alert("Message sent!"); 
