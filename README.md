@@ -1,4 +1,4 @@
 # linkTree App
 
 **Live at**
-https://shiny-zabaione-ec91ce.netlify.app/
+https://comfy-flan-2497e6.netlify.app
